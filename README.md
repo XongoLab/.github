@@ -17,7 +17,7 @@ We're a software and AI solutions company with 14+ years of experience, based in
 ## Explore
 
 - Website: **https://www.xongolab.com**
-- AI Development Services: https://www.xongolab.com/ai-development  ← *(swap for your real service-page URL)*
+- AI Development Services: https://www.xongolab.com/ai-development 
 - Contact: **sales@xongolab.com**
 
 ---
